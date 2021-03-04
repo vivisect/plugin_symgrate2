@@ -20,7 +20,7 @@ class Symgrate2:
         """Queries the server for the first bytes of ASCII armored machine language."""
 
         headers = {"Content-type": "application/x-www-form-urlencoded", "Accept": "text/plain"}
-        r1 = self.sess.post("http://symgrate.com/jfns", data=reqdict, headers=headers)
+        r1 = self.sess.post("https://symgrate.com/jfns", data=reqdict, headers=headers)
         
         #print r1.status, r1.reason
         # 200 OK ?
