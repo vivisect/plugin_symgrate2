@@ -1,4 +1,4 @@
-# Symgrate2 Plugin (v1.3.3)
+# Symgrate2 Plugin (v1.0.0)
 Author: atlas
 Affiliation: GRIMM (SMFS)
 
